@@ -1,4 +1,4 @@
-# Проекты
+# Кейсы
 
 ### <a href="https://github.com/ZacharyAnalyst/Personal/tree/master/Py"> Python </a>
 
